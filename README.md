@@ -1,2 +1,2 @@
 # MEGA-RAG-Large-Scale-Vector-Knowledge-Engine
-A high-performance retrieval engine utilizing FAISS and BGE-M3 to index 540k+ academic entries for real-time fact-checking and hallucination mitigation in SLMs.
+MEGA-RAG is a specialized vector database engine designed to ground AI agents in factual truth. By indexing over 540,000 MCQ entries from diverse academic datasets, it provides a high-precision retrieval layer for validating model outputs in complex reasoning tasks
