@@ -7,3 +7,5 @@ MEGA-RAG is a specialized vector database engine designed to ground AI agents in
   internal logic and external retrieved context.
 - **Resource Optimized:** Engineered with a "Purge-and-Load" strategy to run high-density vector search on consumer-grade GPUs (T4) without 
   memory overflow.
+# Link to download:-
+https://drive.google.com/drive/folders/12dzRJ6Ss9GB8cw2UYKG5XTSweqn26NVT?usp=sharing
